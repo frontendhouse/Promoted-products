@@ -1,0 +1,17 @@
+.promoted-products {
+    background: var(--pp-background-color);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    .promoted-products__title {
+        margin-right: 1rem;
+        color: var(--pp-text-color);
+        opacity: .9;
+    }
+    .promoted-products__link {
+        font-weight: bold;
+        color: var(--pp-text-color);
+    }
+    .promoted-products__link:hover {
+        text-decoration: underline;
+    }
+}

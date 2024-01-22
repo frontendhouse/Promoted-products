@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "FH\\PromotedProducts\\": "inc/"
+    }
+  },
+  "require-dev": {
+    "wp-coding-standards/wpcs": "^3.0"
+  }
+}
